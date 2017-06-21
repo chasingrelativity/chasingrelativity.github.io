@@ -680,3 +680,13 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+/* --- NEW --- */
+
+@media only screen and (min-width: 768px) {
+  .tickcounter  {
+    width: 80%;
+    margin: 0 auto 20px auto;
+    padding: 10px 0;
+  }
+}
