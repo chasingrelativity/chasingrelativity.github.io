@@ -40,8 +40,8 @@ avatar: "/img/eclipse.jpg"
 author:
   name: Nathan Lisgo & Marcus Oaten
   email: "chasingrelativity@gmail.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  facebook: chasingrelativity
+  github: chasingrelativity
   twitter: yourname   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -50,25 +50,25 @@ author:
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
   instagram: yourname # eg. daattali
-  youtube: yourname   # eg. user/daattali or channel/daattali
+  youtube: channel/UCYfngSHgbd-OqoQ_FY6Owuw
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
+  facebook: true
   email: true
   twitter: false
   google-plus: false
-  github: false
+  github: true
   reddit: false
   linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: false
+  youtube: true
   spotify: false
   telephone: false
 
