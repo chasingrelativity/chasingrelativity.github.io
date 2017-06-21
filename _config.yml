@@ -91,7 +91,7 @@ url-pretty: "http://chasingrelativity.github.io"  # eg. "deanattali.com/beautifu
 #google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-K7DRZ9S"
 
 # Facebook App ID
 # fb_app_id: ""
