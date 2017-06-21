@@ -675,6 +675,147 @@ td.gutter {
   padding-top: 3px;
 }
 
+/* --- Email subscription --- */
+
+#mailchimp-subscribe-section,
+#mailchimp-subscribe-section-2,
+#mailchimp-subscribe-section-footer {
+  margin-top: 10px;
+  border-top: 3px double #fff;
+  padding-top: 10px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-align: center;
+  margin-bottom: 10px;
+}
+#mailchimp-subscribe-section-2,
+#mailchimp-subscribe-section-footer {
+  border-top: 0 none;
+  width: 50%;
+  margin: 15px auto 0;
+}
+@media only screen and (max-width: 500px) {
+  #mailchimp-subscribe-section-2 {
+    width: 100%;
+    margin: 10px 0 0 0;
+  }
+}
+#mailchimp-subscribe-section #mc_embed_signup .container,
+#mailchimp-subscribe-section-2 #mc_embed_signup-2 .container,
+#mailchimp-subscribe-section-footer #mc_embed_signup-footer .container {
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
+#mailchimp-subscribe-section #mc_embed_signup .container .row,
+#mailchimp-subscribe-section-2 #mc_embed_signup-2 .container .row,
+#mailchimp-subscribe-section-footer #mc_embed_signup-footer .container .row {
+  padding: 0;
+  margin: 0;
+}
+#mailchimp-subscribe-section #mc_embed_signup .container .row .col-xs-4,
+#mailchimp-subscribe-section #mc_embed_signup .container .row .col-xs-8,
+#mailchimp-subscribe-section-2 #mc_embed_signup-2 .container .row .col-xs-4,
+#mailchimp-subscribe-section-2 #mc_embed_signup-2 .container .row .col-xs-8,
+#mailchimp-subscribe-section-footer #mc_embed_signup-footer .container .row .col-xs-4,
+#mailchimp-subscribe-section-footer #mc_embed_signup-footer .container .row .col-xs-8 {
+  margin: 0;
+  padding: 0 2px;
+}
+#mailchimp-subscribe-section #mc_embed_signup label,
+#mailchimp-subscribe-section-2 #mc_embed_signup-2 label {
+  font-size: 16px;
+  margin-bottom: 7px;
+  font-weight: normal;
+  display: block;
+}
+#mailchimp-subscribe-section #mce-EMAIL,
+#mailchimp-subscribe-section #mce-FNAME,
+#mailchimp-subscribe-section-2 #mce-EMAIL-2,
+#mailchimp-subscribe-section-2 #mce-FNAME-2,
+#mailchimp-subscribe-section-footer #mce-EMAIL-footer,
+#mailchimp-subscribe-section-footer #mce-FNAME-footer {
+  padding: 0 10px;
+  border: 1px solid #ABB0B2;
+  border-radius: 3px;
+  color: #343434;
+  background-color: #fff;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 0 5px;
+  width: 100%;
+}
+#mailchimp-subscribe-section #mc-embedded-subscribe,
+#mailchimp-subscribe-section-2 #mc-embedded-subscribe-2,
+#mailchimp-subscribe-section-footer #mc-embedded-subscribe-footer {
+  border-radius: 3px;
+  font-weight: bold;
+  border: 1px solid #ABB0B2;
+  color: #2c8a3d;
+  background-color: #fff;
+  box-sizing: border-box;
+  padding: 0 18px;
+  display: block;
+  vertical-align: top;
+  transition: all 0.23s ease-in-out 0s;
+  margin: 0; 
+  letter-spacing: 1px;
+  width: 100%;
+}
+#mailchimp-subscribe-section-footer #mc-embedded-subscribe-footer {
+  color: #333333;
+}
+#mailchimp-subscribe-section #mc-embedded-subscribe:hover,
+#mailchimp-subscribe-section-2 #mc-embedded-subscribe-2:hover {
+  background-color: #f8f8f8;
+  color: #000;
+  cursor: pointer;
+}
+#mailchimp-subscribe-section-footer #mc-embedded-subscribe-footer:hover {
+  background-color: #2c8a3d;
+  color: #f0f0f0;
+  cursor: pointer;
+}
+
+#mailchimp-subscribe-section #mce-EMAIL,
+#mailchimp-subscribe-section #mce-FNAME,
+#mailchimp-subscribe-section #mc-embedded-subscribe,
+#mailchimp-subscribe-section-2 #mce-EMAIL-2,
+#mailchimp-subscribe-section-2 #mce-FNAME-2,
+#mailchimp-subscribe-section-2 #mc-embedded-subscribe-2,
+#mailchimp-subscribe-section-footer #mce-EMAIL-footer,
+#mailchimp-subscribe-section-footer #mce-FNAME-footer,
+#mailchimp-subscribe-section-footer #mc-embedded-subscribe-footer {
+  height: 30px;
+  font-size: 14px;
+}
+
+@media only screen and (min-width: 980px) {
+  #mailchimp-subscribe-section #mc_embed_signup label,
+  #mailchimp-subscribe-section-2 #mc_embed_signup-2 label {
+    font-size: 18px;
+    margin-bottom: 3px;
+  }
+  #mailchimp-subscribe-section #mce-EMAIL,
+  #mailchimp-subscribe-section #mce-FNAME,
+  #mailchimp-subscribe-section #mc-embedded-subscribe,
+  #mailchimp-subscribe-section-2 #mce-EMAIL-2,
+  #mailchimp-subscribe-section-2 #mce-FNAME-2,
+  #mailchimp-subscribe-section-2 #mc-embedded-subscribe-2 {
+    height: 35px;
+  }
+}
+@media only screen and (max-width: 979px) {
+  #mailchimp-subscribe-section #mce-EMAIL,
+  #mailchimp-subscribe-section #mce-FNAME,
+  #mailchimp-subscribe-section-2 #mce-EMAIL-2,
+  #mailchimp-subscribe-section-2 #mce-FNAME-2 {
+    margin-bottom: 3px;
+  }
+}
+
+/* --- Social media sharing section --- */
+
 /* --- Social media sharing section --- */
 
 #social-share-section {
