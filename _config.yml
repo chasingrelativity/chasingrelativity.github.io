@@ -88,7 +88,7 @@ url-pretty: "http://chasingrelativity.github.io"  # eg. "deanattali.com/beautifu
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-101435196-1"
 
 # Google Tag Manager ID
 gtm: "GTM-K7DRZ9S"
