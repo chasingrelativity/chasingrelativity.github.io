@@ -36,6 +36,17 @@
             </a>
           </li>
           {% endif %}
+      {% if site.author.periscope and site.footer-links-active.periscope %}
+          <li>
+            <a href="https://www.pscp.tv/{{ site.author.periscope }}" title="Periscope">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-map-marker fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Periscope</span>
+            </a>
+          </li>
+          {% endif %}
 	  {% if site.author.reddit and site.footer-links-active.reddit %}
           <li>
             <a href="https://reddit.com/u/{{ site.author.reddit }}" title="Reddit">
