@@ -831,3 +831,9 @@ td.gutter {
     padding: 10px 0;
   }
 }
+
+.eclipse-anim {
+  padding: 0 0 0 328px;
+  background-image: url(../img/eclipse_sun.gif);
+  background-repeat: no-repeat;
+}
