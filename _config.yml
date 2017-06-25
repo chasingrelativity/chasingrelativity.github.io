@@ -17,7 +17,7 @@ baseurl: ""
 title: Chasing Relativity
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Make the most of your eclipse experience
 
 # --- Navigation bar options --- #
 
@@ -60,7 +60,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: true
   email: true
   twitter: true
