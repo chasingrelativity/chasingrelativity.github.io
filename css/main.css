@@ -84,6 +84,10 @@ img {
   max-width: 100%;
 }
 
+iframe {
+  max-width: 100%;
+}
+
 .disqus-comments {
   margin-top: 30px;
 }
@@ -125,7 +129,7 @@ img {
   padding-top: 0;
   -webkit-transition: padding .5s ease-in-out;
   -moz-transition: padding .5s ease-in-out;
-  transition: padding .5s ease-in-out;  
+  transition: padding .5s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
   height: 50px;
@@ -191,14 +195,14 @@ img {
     width: 100px;
     margin-top: -50px;
   }
-  
+
   .navbar-custom .avatar-container  .avatar-img-border {
     width: 100%;
     box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
   }
-  
+
   .navbar-custom .avatar-container  .avatar-img {
     width: 100%;
   }
@@ -236,7 +240,7 @@ img {
 @media only screen and (min-width: 768px) {
   .navbar-custom .nav .navlinks-container {
     text-align: center;
-  }  
+  }
   .navbar-custom .nav .navlinks-container:hover {
     background: #eee;
   }
@@ -292,7 +296,7 @@ footer .theme-by {
     font-size: 16px;
   }
 }
- 
+
 /* --- Post preview --- */
 
 .post-preview {
@@ -409,7 +413,7 @@ footer .theme-by {
     height: 100px;
     width: 100px;
   }
-  
+
   .post-image {
     width: 100%;
     text-align: center;
@@ -504,11 +508,11 @@ footer .theme-by {
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
-  }	
+  }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
     padding: 150px 0;
-  }  
+  }
   .intro-header .page-heading h1 {
     font-size: 80px;
   }
@@ -545,9 +549,9 @@ footer .theme-by {
   }
   .header-section.has-img .big-img {
     margin-bottom: 0;
-  }  
-} 
-@media only screen and (max-width: 325px) { 
+  }
+}
+@media only screen and (max-width: 325px) {
   .intro-header.big-img {
     height: 200px;
   }
@@ -758,7 +762,7 @@ td.gutter {
   display: block;
   vertical-align: top;
   transition: all 0.23s ease-in-out 0s;
-  margin: 0; 
+  margin: 0;
   letter-spacing: 1px;
   width: 100%;
 }
@@ -832,8 +836,10 @@ td.gutter {
   }
 }
 
-.eclipse-anim {
-  padding: 0 0 0 328px;
-  background-image: url(../img/eclipse_sun.gif);
-  background-repeat: no-repeat;
+@media only screen and (min-width: 768px) {
+  .eclipse-anim {
+    padding: 0 0 0 328px;
+    background-image: url(../img/eclipse_sun.gif);
+    background-repeat: no-repeat;
+  }
 }
