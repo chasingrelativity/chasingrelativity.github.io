@@ -8,7 +8,7 @@ Nearly 100 years ago, Sir Arthur Eddington was involved in an ambitious expediti
 
 Einstein published his general theory of relativity in 1915. Ten years earlier he had published his special theory of relativity. The Newtonian model for gravity was sufficient to allow us to map the movements of most of the objects in the heavens but there were somethings which seemed to defy the laws. One such anomaly was the peculiar orbit of Mercury.
 
-Prior to Einstein no-one had offered a plausible explanation of the mechanics of gravity. Gravity was a mysterious force of attraction between objects of mass. As an object passes in the proximity of another larger object, the objects will be drawn to one another. Because Newton's laws were easy to understand and they matched the majority of what we observe, they endured. Although it has been disproven by general relativity it is still often taught in our schools.
+Prior to Einstein no-one had offered a plausible explanation of the mechanics of gravity. Gravity was a mysterious force of attraction between objects of mass. As an object passes in the proximity of another larger object, the objects will be drawn to one another. Because Newton's laws were easy to understand and they matched the majority of what we observe, they endured. Although they had been disproven by general relativity they are still often taught in our schools.
 
 Einstein's theory of general relativity proposed that objects of mass create a disturbance in the surrounding fabric of space and time. The course upon which objects travel in space-time is altered by these disturbances. The course of the Earth is altered to such a degree that our journey through space and time is an elliptical orbit around the Sun.
 
@@ -21,7 +21,7 @@ Sir Frank W. Dyson, in 1917, suggested that the perfect opportunity to observe t
 
 Reference photos were taken in the night sky of the original positions of the stars predicted to be close to the Sun at the time of the May 1919 eclipse (Hyades cluster) in January and February 1919. In time for the May 29 1919 solar eclipse, Sir Arthur Eddington journeyed to the remote island of Principe, off the west costal of Africa. A backup team was sent to Sobral, Brazil.
 
-Once the data was analyised, it was concluded that Einstein's calculations matched what was observed. Eddington announced his findings on November 6 1919 and Einstein's breakthrough theory was finally given the recognition it deserved.
+Once the data was analysed, it was concluded that Einstein's calculations matched what was observed. Eddington announced his findings on November 6 1919 and Einstein's breakthrough theory was finally given the recognition it deserved.
 
 ![Eclipse Negative](/img/1919_eclipse_negative.jpg)
 *Photo: Royal Society of London<br/>Negative of the 1919 solar eclipse taken from the report of Sir Arthur Eddington. Eddington highlighted the stars he used in the comparison with horizontal marks; these can be seen at 2 o’clock on the image.*
