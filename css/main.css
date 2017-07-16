@@ -843,3 +843,14 @@ td.gutter {
     background-repeat: no-repeat;
   }
 }
+
+.light-bigimg .intro-header.big-img .page-heading,
+.light-bigimg .intro-header.big-img .post-heading {
+  padding: 100px 0;
+  color: #000;
+  text-shadow: 1px 1px 3px #FFF;
+}
+
+.intro-header.big-img .post-heading .post-meta {
+  color: #000;
+}
