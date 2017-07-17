@@ -41,15 +41,15 @@ There are a couple of candidate stars that will be bright enough to stand out in
 
 Sirius is the brightest star in our skies, so it's not surprising that it will be making an appearance during the eclipse.
 
-Regulus is the brightest star in the Le constellation and will be close to the left of eclipsed Sun.
+Regulus is the brightest star in the Leo constellation and will be close to the left of eclipsed Sun.
 
-It is possible that you will see some more stars in the sky but Sirius and Regulus stand out.
+It is possible that you will see some more stars in the sky but Sirius and Regulus will really stand out.
 
 ## Why would I look at anything other than the corona?
 
 Good point! Don't get distracted from the main event but you might want to look around too for a few moments.
 
-But after the anticipation you will be forgiven for only having your eyes on the main prize!
+But after the anticipation, you will be forgiven for only having your eyes on the main prize!
 
 Useful links:
 
